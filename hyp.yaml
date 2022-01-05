@@ -1,0 +1,9 @@
+optim: Adam
+lr: 0.001
+momentum: 0.90
+weight_decay: 0.00005
+bs: 128
+eps: 5
+sequence_padding: 500
+save_path: /best.pt
+
